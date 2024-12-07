@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\bora\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\bora\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\bora\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\bora\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5C7CA4-B748-4A96-9FDD-46B817D1B9F4}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kay\u0131tOl.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Kay\u0131tOl.cs",
+              "RelativeDocumentMoniker": "E-Ticaret\\Kay\u0131tOl.cs",
+              "ToolTip": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Kay\u0131tOl.cs",
+              "RelativeToolTip": "E-Ticaret\\Kay\u0131tOl.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:33:12.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Urunler.cs",
+              "RelativeDocumentMoniker": "E-Ticaret\\Urunler.cs",
+              "ToolTip": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Urunler.cs",
+              "RelativeToolTip": "E-Ticaret\\Urunler.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:05:53.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Urunler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Urunler.cs",
+              "RelativeDocumentMoniker": "E-Ticaret\\Urunler.cs",
+              "ToolTip": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Urunler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "E-Ticaret\\Urunler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:02:26.081Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "E-Ticaret\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Bora\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\AdminPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "E-Ticaret\\AdminPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:01:30.52Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

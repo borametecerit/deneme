@@ -1,0 +1,13 @@
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\bin\Debug\E-Ticaret.exe.config
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\bin\Debug\E-Ticaret.exe
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\bin\Debug\E-Ticaret.pdb
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E-Ticaret.csproj.AssemblyReference.cache
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E_Ticaret.Form1.resources
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E_Ticaret.Properties.Resources.resources
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E-Ticaret.csproj.GenerateResource.cache
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E-Ticaret.csproj.CoreCompileInputs.cache
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E-Ticaret.exe
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E-Ticaret.pdb
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E_Ticaret.Kategoriler.resources
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E_Ticaret.KullaniciGiris.resources
+C:\Users\Bora\Desktop\E-Ticaret\E-Ticaret\E-Ticaret\obj\Debug\E_Ticaret.KayıtOl.resources
